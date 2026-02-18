@@ -22,7 +22,7 @@ I am a passionate **Software Engineering Student** focused on building scalable 
 - 🔭 **Working on**: [CampusTrade](https://github.com/rah-gif/campus-trade) (A secure university marketplace).
 - 🌱 **Learning**: Computer Vision, System Design, and Next.js.
 - 💬 **Ask me about**: React, Supabase, and Java.
-- 📫 **Contact**: [rahulchethanana65@gmail.com](mailto:rahulchethanana65@gmail.com)
+- 📫 **Contact**: [rahulchethana65@gmail.com](mailto:rahulchethanana65@gmail.com)
 
 ---
 
