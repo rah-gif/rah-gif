@@ -21,7 +21,7 @@ I am a passionate **Computer Engineering Student** focused on building scalable 
 
 - 🔭 **Working on**: [CampusTrade](https://github.com/rah-gif/campus-trade) (A secure university marketplace).
 - 🌱 **Learning**: Full stack Development, System Design, Python and Next.js.
-- 💬 **Ask me about**: React, Supabase, and Java.
+- 💬 **Ask me about**: Python, React, Supabase, and Java.
 - 📫 **Contact**: [rahulchethana65@gmail.com](mailto:rahulchethanana65@gmail.com)
 
 ---
