@@ -1,135 +1,65 @@
 <div align="center">
-  <h1>Hi 👋, I'm Chethana Rahul</h1>
-  <h3>🌱 Passionate Software Developer Student from Sri Lanka 🇱🇰</h3>
-  <br>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Software+Developer;Machine+Learning+Enthusiast;Building+Step+by+Step;Dreaming+Big+🚀" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h2>🌐 Connect & Resume</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Chethana+Rahul+👋;Full+Stack+Developer;Building+Future+Tech+🚀" alt="Typing SVG" />
   
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://rah-gif.github.io/My_Resume/">
-          <img src="https://img.shields.io/badge/View_Resume-47cf73?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:rahulchethanana65@gmail.com">
-          <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
+  <h3>🌱 Software Engineering Student | Sri Lanka 🇱🇰</h3>
+  
   <p>
-    <a href="https://twitter.com/rahulchethana" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://stackoverflow.com/users/31468187" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
-    </a>
     <a href="https://github.com/rah-gif">
-      <img src="https://img.shields.io/github/followers/rah-gif?label=Follow&style=for-the-badge&color=23272d" alt="Follow"/>
+      <img src="https://img.shields.io/github/followers/rah-gif?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
 </div>
 
-<br/>
+<br />
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🎓 <b>Student & Self-Motivated Learner</b> based in Sri Lanka.</li>
-        <li>🔭 Currently working on: <br/>
-            <b>Java Swing – Grocery Stock & Billing System</b><br/>
-            👉 <a href="https://github.com/Disath2007/Foodcity_Grocery_Stock_Billing_System">View Project</a>
-        </li>
-        <li>🌱 Currently exploring: <br/> 
-            <b>Artificial Intelligence, Computer Vision, & Full Stack Web Dev</b>
-        </li>
-        <li>💬 Ask me about: <br/>
-            <b>React, Java, Python, Django</b>
-        </li>
-        <li>⚡ Fun fact: <br/>
-            <b>I believe AI will be the next revolution of humanity 🤖✨</b>
-        </li>
-      </ul>
-    </td>
-    <td valign="center" width="40%">
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=rah-gif&label=Profile%20Views&color=0e75b6&style=plastic" alt="profile views" />
-        <br/><br/>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif"/>
-      </div>
-    </td>
-  </tr>
-</table>
+I am a passionate **Software Engineering Student** focused on building scalable web applications and exploring AI solutions. I assume responsibility for the entire development lifecycle, from concept to deployment.
+
+- 🔭 **Working on**: [CampusTrade](https://github.com/rah-gif/campus-trade) (A secure university marketplace).
+- 🌱 **Learning**: Computer Vision, System Design, and Next.js.
+- 💬 **Ask me about**: React, Supabase, and Java.
+- 📫 **Contact**: [rahulchethanana65@gmail.com](mailto:rahulchethanana65@gmail.com)
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="center">I enjoy working with a variety of technologies. Here is my current arsenal:</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,js,php,html,css" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vue,django,nodejs,bootstrap" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>AI & ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,figma,android" /></td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rah-gif&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <table>
+    <tr>
+      <td align="center" width="90"><b>Frontend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="90"><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,nodejs,django,php" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="90"><b>Database</b></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="90"><b>Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
+## 📈 GitHub Stats
 
-## ☕ Support My Journey
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rah-gif&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rah-gif&theme=transparent&hide_border=true" height="150" alt="streak graph" />
+</div>
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/rahulchetht">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<br/>
+<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br />
-  <p>🌌 <i>Learning quietly. Building patiently. Dreaming endlessly.</i> 🌌</p>
 </div>
