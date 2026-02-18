@@ -51,7 +51,7 @@
         <li>🎓 <b>Student & Self-Motivated Learner</b> based in Sri Lanka.</li>
         <li>🔭 Currently working on: <br/>
             <b>Java Swing – Grocery Stock & Billing System</b><br/>
-            👉 <a href="https://github.com/Disath2007/Foodcity_Grocery_Stock_-_Billing_System">View Project</a>
+            👉 <a href="https://github.com/Disath2007/Foodcity_Grocery_Stock_Billing_System">View Project</a>
         </li>
         <li>🌱 Currently exploring: <br/> 
             <b>Artificial Intelligence, Computer Vision, & Full Stack Web Dev</b>
