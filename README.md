@@ -55,6 +55,7 @@ I am a passionate **Software Engineering Student** focused on building scalable 
 
 <div align="center">
   
+  <img src="https://github-readme-stats.vercel.app/api?username=rah-gif&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rah-gif&theme=transparent&hide_border=true" height="150" alt="streak graph" />
 </div>
 
