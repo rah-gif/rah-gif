@@ -7,8 +7,8 @@
     <a href="https://github.com/rah-gif">
       <img src="https://img.shields.io/github/followers/rah-gif?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+    <a href="mailto:rahulchethanana65@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=social&logo=gmail&logoColor=D14836" alt="Email" />
     </a>
   </p>
 </div>
