@@ -109,9 +109,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rah-gif&show_icons=true&theme=tokyonight&count_private=true" alt="rah-gif stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rah-gif&layout=compact&theme=tokyonight" alt="rah-gif languages" height="180"/>
-  
+
   <br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rah-gif&theme=tokyonight&hide_border=true" alt="streak stats" />
