@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=21&duration=5003&pause=1000&width=435&lines=Software+Developer;+Machine+Learning+Enthusiast;Building+Step+by+Step;Dreaming+Big+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=21&duration=5003&pause=1000&width=435&lines=Software+Developer;+Machine+Learning+Enthusiast;Building+Step+by+Step;Dreaming+Big+🚀</a>
 </div>
 
 ---
