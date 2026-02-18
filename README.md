@@ -2,14 +2,11 @@
   <h1>Hi 👋, I'm Chethana Rahul</h1>
   <h3>🌱 Passionate Software Developer Student from Sri Lanka 🇱🇰</h3>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Step+by+Step;Dreaming+Big+🚀" alt="Typing SVG" />
-  </a>
+---
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=21&duration=5003&pause=1000&width=435&lines=Software+Developer;+%26+Machine+Learning+Enthusiast;Building+Step+by+Step;Dreaming+Big+🚀" alt="Typing SVG" /></a>
 </div>
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=21&duration=5003&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 ---
 
 <div align="center">
