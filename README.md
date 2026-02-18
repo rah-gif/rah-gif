@@ -20,7 +20,7 @@
 I am a passionate **Computer Engineering Student** focused on building scalable web applications and exploring AI solutions. I assume responsibility for the entire development lifecycle, from concept to deployment.
 
 - 🔭 **Working on**: [CampusTrade](https://github.com/rah-gif/campus-trade) (A secure university marketplace).
-- 🌱 **Learning**: Computer Vision, System Design, and Next.js.
+- 🌱 **Learning**: Full stack Development, System Design, Python and Next.js.
 - 💬 **Ask me about**: React, Supabase, and Java.
 - 📫 **Contact**: [rahulchethana65@gmail.com](mailto:rahulchethanana65@gmail.com)
 
