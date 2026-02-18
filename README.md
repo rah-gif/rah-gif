@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Chethana+Rahul+👋;Full+Stack+Developer;Building+Future+Tech+🚀" alt="Typing SVG" />
   
-  <h3>🌱 Software Engineering Student | Sri Lanka 🇱🇰</h3>
+  <h3>🌱 Computer Engineering Student | Sri Lanka 🇱🇰</h3>
   
   <p>
     <a href="https://github.com/rah-gif">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Software Engineering Student** focused on building scalable web applications and exploring AI solutions. I assume responsibility for the entire development lifecycle, from concept to deployment.
+I am a passionate **Computer Engineering Student** focused on building scalable web applications and exploring AI solutions. I assume responsibility for the entire development lifecycle, from concept to deployment.
 
 - 🔭 **Working on**: [CampusTrade](https://github.com/rah-gif/campus-trade) (A secure university marketplace).
 - 🌱 **Learning**: Computer Vision, System Design, and Next.js.
