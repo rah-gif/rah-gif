@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Chethana Rahul</h1>
-  <h3>🌱 Passionate Software Developer from Sri Lanka 🇱🇰</h3>
+  <h3>🌱 Passionate Software Developer Student from Sri Lanka 🇱🇰</h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Step+by+Step;Dreaming+Big+🚀" alt="Typing SVG" />
