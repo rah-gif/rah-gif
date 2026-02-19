@@ -18,6 +18,7 @@
 ## 👨‍💻 About Me
 
 I am a passionate **Computer Engineering Student** focused on building scalable web applications and exploring AI solutions. I assume responsibility for the entire development lifecycle, from concept to deployment.
+🇯🇵 Bridging Tech & Culture: Currently studying Japanese (JLPT N4]) at LNBTI, focusing on working within the Japanese tech ecosystem.
 
 - 🔭 **Working on**: [CampusTrade](https://github.com/rah-gif/campus-trade) (A secure university marketplace).
 - 🌱 **Learning**: Full stack Development, System Design, Python and Next.js.
