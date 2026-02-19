@@ -7,7 +7,7 @@
     <a href="https://github.com/rah-gif">
       <img src="https://img.shields.io/github/followers/rah-gif?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <a href="mailto:rahulchethanana65@gmail.com">
+    <a href="mailto:rahulchethana65@gmail.com">
       <img src="https://img.shields.io/badge/Email_Me-D14836?style=social&logo=gmail&logoColor=D14836" alt="Email" />
     </a>
   </p>
@@ -18,12 +18,13 @@
 ## 👨‍💻 About Me
 
 I am a passionate **Computer Engineering Student** focused on building scalable web applications and exploring AI solutions. I assume responsibility for the entire development lifecycle, from concept to deployment.
-🇯🇵 Bridging Tech & Culture: Currently studying Japanese (JLPT N4]) at LNBTI, focusing on working within the Japanese tech ecosystem.
+<br>
+🇯🇵 Bridging Tech & Culture: Pursuing a Japanese-based IT degree at LNBTI and currently studying for JLPT N4 to work effectively in the Japanese tech ecosystem.
 
 - 🔭 **Working on**: [CampusTrade](https://github.com/rah-gif/campus-trade) (A secure university marketplace).
 - 🌱 **Learning**: Full stack Development, System Design, Python and Next.js.
 - 💬 **Ask me about**: Python, React, Supabase, and Java.
-- 📫 **Contact**: [rahulchethana65@gmail.com](mailto:rahulchethanana65@gmail.com)
+- 📫 **Contact**: [rahulchethana65@gmail.com](mailto:rahulchethana65@gmail.com)
 
 ---
 
